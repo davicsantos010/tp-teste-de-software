@@ -2,9 +2,9 @@
 
 ## 1. Membros do grupo
 
-- Guilherme Xavier Salles
 - Arthur Pereira Carvalho
 - Davi Carvalho dos Santos
+- Guilherme Xavier Salles
 
 ---
 
