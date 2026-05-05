@@ -32,7 +32,7 @@ Serão implementados testes cobrindo:
 - Adição e listagem de exercícios;
 - Controle de acesso a rotas protegidas.
 
-Os testes atingemÉ esperado que os testes atinjam, pelo menos, **95% de cobertura do código**, garantindo maior confiabilidade e facilitando a manutenção do sistema.
+É esperado que os testes atinjam, pelo menos, **95% de cobertura do código**, garantindo maior confiabilidade e facilitando a manutenção do sistema.
 
 ---
 
