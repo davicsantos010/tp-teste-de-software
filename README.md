@@ -76,6 +76,7 @@ Framework de testes que será utilizado para validar o comportamento do sistema,
 
 **Pytest-cov**  
 Ferramenta a ser utilizada para medir a cobertura de testes, indicando quais partes do código estão sendo testadas.
+
 ---
 
 ### Outros
