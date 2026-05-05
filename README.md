@@ -1,4 +1,4 @@
-# Sistema de Planejamento de Treinos
+# TrainWise - Sistema de Planejamento de Treinos
 
 ## 1. Membros do grupo
 
