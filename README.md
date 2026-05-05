@@ -4,6 +4,7 @@
 
 - Arthur Pereira Carvalho
 - Davi Carvalho dos Santos
+- Davi Sakamoto Lamounier
 - Guilherme Xavier Salles
 
 ---
